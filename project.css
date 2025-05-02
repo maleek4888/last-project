@@ -1,0 +1,50 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(221, 217, 217);
+    
+}
+h2{
+    color: rgb(18, 18, 153);
+}
+
+h1,h2{
+    letter-spacing: 2px;
+    font-weight: normal;
+}
+
+
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+#a, #b{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0  4px  6px rgb(80, 80, 80);
+    
+}
+#container{
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
